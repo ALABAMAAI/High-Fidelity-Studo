@@ -1,0 +1,8 @@
+{
+  "name": "High Fidelity Foley Studio",
+  "description": "Professional AI Foley and Sound FX generation for video.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
